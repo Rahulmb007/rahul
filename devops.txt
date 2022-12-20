@@ -1,0 +1,11 @@
+pwd
+dfg
+ls
+clear
+ls -l
+mkdir
+rmdir
+cat
+nano
+vi
+
